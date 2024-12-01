@@ -278,11 +278,14 @@ header .text-box p {
 }
 
 .hour-of-code-section {
+    width: 88%;
+    margin: auto;
     padding: 120px 0;
     background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 30px;
 }
 
 .hour-of-code-content {
